@@ -3,6 +3,7 @@
 Software Engineering Leader — Infrastructure & Security
 
 🏗️ Currently building at [Valiant Finance](https://valiant.finance)
+
 🇦🇺 Living in Sydney, Australia
 
 **Experience →** [linkedin.com/in/krishofer](https://linkedin.com/in/krishofer)
